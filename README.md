@@ -1,3 +1,5 @@
+# Forked to implement New Twitch Api (v5 will be deprecated) and some minors adjustements
+
 # Twitch_API_v5
 Simple module to use Twitch's API v5 for all endpoints. For details on optional parameters or required authentication scopes please follow the links to the Twitch docs.
 
